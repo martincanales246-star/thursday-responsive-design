@@ -8,9 +8,13 @@
 --apricot-cream: #f2cc8fff;
 }
 
-html {
+body {
   background-color: var(--muted-teal);
 }
 h1 {
   color: var(--burnt-peach);
+}
+
+.col {
+  border: 1px solid red;
 }
